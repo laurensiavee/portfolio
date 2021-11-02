@@ -21,7 +21,13 @@ In this project I built recommender system with content-based filtering and coll
 
 <img align="left" src="img/cust-churn-img.jpeg" width="240" height="144"> **[Customer Churn Prediction and Analysis](https://github.com/laurensiavee/customer-churn-prediction)**<br>
 **Machine Learning | Classification | EDA | Prediction | Python** <br>
-In this project, I analyse the data and find churn correlation with feature listed. Then, I compared several Machine Learning Classification Algorithm such as Random Forest, Decision Tree, XGBoost, etc. Model shown up to 88% Churn Prediction accuracies.
+In this project, I analyse the data and find churn correlation with feature listed. Then, I compared several Machine Learning Classification Algorithm such as Random Forest, Decision Tree, XGBoost, etc. Model shown up to 88% Churn Prediction accuracy.
+
+#
+
+<img align="left" src="img/fraud.png" width="240" height="144"> **[Fraud Detection on Job Posting](https://github.com/laurensiavee/customer-churn-prediction)**<br>
+**Natural Language Processing | Machine Learning | Classification | EDA | Python** <br>
+In this project, I build Fraud Detection with Machine Learning Classification Model. The Challenge on building Fraud detection is the highly skewed dataset(here fraudulent was only 4,8%). There's also overfit problem, and i've both solve the issue. Model shown up to 86% accuracy.
 
 #
 
