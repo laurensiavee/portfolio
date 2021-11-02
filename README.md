@@ -25,7 +25,7 @@ In this project, I analyse the data and find churn correlation with feature list
 
 #
 
-<img align="left" src="img/fraud.png" width="240" height="144"> **[Fraud Detection on Job Posting](https://github.com/laurensiavee/customer-churn-prediction)**<br>
+<img align="left" src="img/fraud.png" width="240" height="144"> **[Fraud Detection on Job Posting](https://github.com/laurensiavee/fraud-job-posting)**<br>
 **Natural Language Processing | Machine Learning | Classification | EDA | Python** <br>
 In this project, I build Fraud Detection with Machine Learning Classification Model. The Challenge on building Fraud detection is the highly skewed dataset(here fraudulent was only 4,8%). There's also overfit problem, and i've both solve the issue. Model shown up to 86% accuracy.
 
