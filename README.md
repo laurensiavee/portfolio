@@ -33,7 +33,7 @@ In this project, I build Fraud Detection with Machine Learning Classification Mo
 
 <img align="left" src="img/insurance.jpg" width="240" height="144"> **[Medical Cost Prediction: Insurance Forecast with R](https://github.com/laurensiavee/insurance-medical-cost-pred)**<br>
 **Regression | Machine Learning | EDA | R** <br>
-In this project, I build Insurance Medical Cost Analysis and Prediction Using Linear Regression Model using R. I experiment with data visualization with ggplot2 library. 
+In this project, I build Insurance Medical Cost Analysis and Prediction Using Linear Regression Model using R. I experiment data analysis and visualization with ggplot2 library. 
 
 
 #
