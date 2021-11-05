@@ -44,8 +44,6 @@ In this project, I build Insurance Medical Cost Analysis and Prediction Using Li
 
 #
 
-#
-
 **[Orange vs Grape](https://github.com/laurensiavee/orange-vs-grape)**<br>
 **Machine Learning | Classification | EDA | Prediction | Python** <br>
 fun and simple Machine Learning exercise to build classifier model for citrus data (orange vs grape). Used 5 different machine learning algorithm with accuracy between 91.9% - 98.5%
