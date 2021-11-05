@@ -36,9 +36,13 @@ In this project, I build Fraud Detection with Machine Learning Classification Mo
 In this project, I build Insurance Medical Cost Analysis and Prediction Using Linear Regression Model using R. I experiment data analysis and visualization with ggplot2 library. 
 
 
+<br/>
+
 #
 
 ## MINOR PROJECTS
+
+#
 
 #
 
