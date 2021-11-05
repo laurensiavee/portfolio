@@ -44,8 +44,14 @@ In this project, I build Insurance Medical Cost Analysis and Prediction Using Li
 
 #
 
+**[Handwritten Digit Recognition](https://github.com/laurensiavee/mnist-digit-recognition)**<br>
+**CNN | Image Recognition | MNIST | Keras | TensorFlow | Python** <br>
+simple exercise to build Image Recognition of MNIST Digit Dataset with Convolutional Neural Networks. The accuracy reach 99.3%
+#
+
 **[Orange vs Grape](https://github.com/laurensiavee/orange-vs-grape)**<br>
 **Machine Learning | Classification | EDA | Prediction | Python** <br>
+
 fun and simple Machine Learning exercise to build classifier model for citrus data (orange vs grape). Used 5 different machine learning algorithm with accuracy between 91.9% - 98.5%
 
 #
