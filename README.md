@@ -19,9 +19,9 @@ In this project I built recommender system with content-based filtering and coll
 
 #
 
-<img align="left" src="img/cust-churn-img.jpeg" width="240" height="144"> **[Customer Churn Prediction and Analysis](https://github.com/laurensiavee/customer-churn-prediction)**<br>
-**Machine Learning | Classification | EDA | Prediction | Python** <br>
-In this project, I analyse the data and find churn correlation with feature listed. Then, I compared several Machine Learning Classification Algorithm such as Random Forest, Decision Tree, XGBoost, etc. Model shown up to 88% Churn Prediction accuracy.
+<img align="left" src="img/cust-churn-img.jpeg" width="240" height="144"> **[Customer Churn Prediction, EDA, and Clustering](https://github.com/laurensiavee/customer-churn-prediction)**<br>
+**Machine Learning | Classification | EDA | Clustering | PCA | Unsupervised Learning | Python** <br>
+In this project, I analyse the data and find churn correlation with feature listed. Then, I compared several Machine Learning Classification Algorithm such as Random Forest, Decision Tree, XGBoost, etc. Model shown up to 88% Churn Prediction accuracy. I've also tried to Cluster Customer with K-Means and DBSCAN with PCA dimensionality reduction.
 
 #
 
