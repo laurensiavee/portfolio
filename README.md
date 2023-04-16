@@ -84,7 +84,7 @@ simple  calculator as exercise on HTML, CSS, and JavaScript.
     > Flask, .NET
 
 - Tools:
-    > Git, MySQL, Jupyter, SQLAlchemy
+    > Git, MySQL, Jupyter, SQLServer, SQLAlchemy
 
 - Web Development:
     > HTML, CSS, JavaScript, Flask, .NET, bootstrap
