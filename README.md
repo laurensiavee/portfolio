@@ -1,7 +1,10 @@
 # PORTFOLIO
 Hello, I'm Laurensia! Welcome to my portfolio!
 
-I am currently on my third year of Computer Science Major🔭, Specialize in ✨Intelligence System/ Artificial Intelligence✨.I am currently focused in learning Machine Learning and Data Science. I mainly used Python, and some R. My current interest is Machine Learning Model Deployment. And so, I am currently learning Web Development (Flask).
+I'm Laurensia, computer science major interested in Artificial Intelligence and Data Science✨.
+
+I'm best at python and learning R. I am also currently learning Web Development with Flask. Other tools/langs i enjoy such as:
+HTML/CSS/JavaScript, Python, R, C/C++, C#, SQL, Java
 
 <br/>
 
@@ -46,7 +49,12 @@ In this project, I build Insurance Medical Cost Analysis and Prediction Using Li
 
 **[Handwritten Digit Recognition](https://github.com/laurensiavee/mnist-digit-recognition)**<br>
 **CNN | Image Recognition | MNIST | Keras | TensorFlow | Python** <br>
-simple exercise to build Image Recognition of MNIST Digit Dataset with Convolutional Neural Networks. The accuracy reach 99.3%
+simple exercise to build Image Recognition of MNIST Digit Dataset with Convolutional Neural Networks. The accuracy reached 99.3%
+#
+
+**[Sentiment Analysis on Covid Tweets](https://github.com/laurensiavee/covid-tweets-sentiment)**<br>
+**Sentiment Analysis | NLP | Classification | BERT |TensorFlow | Python** <br>
+classified sentiment of tweets related to covid into 5 categories. Used BERT as tokenizer and pretrained classifier build with neural network. Accuracy reached 80%.
 #
 
 **[Orange vs Grape](https://github.com/laurensiavee/orange-vs-grape)**<br>
@@ -67,15 +75,18 @@ simple  calculator as exercise on HTML, CSS, and JavaScript.
 
     > R (Ggplot2)
 
-    > Java, C++, C, C#, SQL
+    > C#, SQL, Java, C++, C.
 
 - Methodologies:
     > Machine Learning, Deep Learning, Natural Language Processing, 
 
+- Frameworks:
+    > Flask, .NET
+
 - Tools:
-    > Git, MySQL, Jupyter
+    > Git, MySQL, Jupyter, SQLAlchemy
 
 - Web Development:
-    > HTML, CSS, JavaScript
+    > HTML, CSS, JavaScript, Flask, .NET, bootstrap
 
 #
