@@ -81,7 +81,7 @@ simple  calculator as exercise on HTML, CSS, and JavaScript.
     > Machine Learning, Deep Learning, Natural Language Processing, 
 
 - Frameworks:
-    > Flask, .NET
+    > Flask, ASP.NET
 
 - Tools:
     > Git, MySQL, Jupyter, SQLServer, SQLAlchemy
