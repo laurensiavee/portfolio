@@ -75,19 +75,28 @@ simple  calculator as exercise on HTML, CSS, and JavaScript.
 
     > R (Ggplot2)
 
-    > C#, SQL, Java, C++, C.
+    > C#, SQL, Java, C++, C, Javascript.
 
 - Methodologies:
     > Machine Learning, Deep Learning, Natural Language Processing, 
 
+- Web Development:
+    > HTML, CSS, JavaScript
+
 - Frameworks:
-    > Flask, ASP.NET
+    > Backend: Flask, ASP.NET, laravel
+
+    > JavaScript: React
+
+    > CSS: Tailwind, Bootstrap
+
+- Database:
+    > MySQL, SQLServer, SQLAlchemy
 
 - Tools:
-    > Git, MySQL, Jupyter, SQLServer, SQLAlchemy
+    > Git, Jupyter, TFS 
 
-- Web Development:
-    > HTML, CSS, JavaScript, Flask, .NET, bootstrap
+
 
 #
 
