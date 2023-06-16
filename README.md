@@ -5,7 +5,7 @@ I'm Laurensia, computer science fresh graduate focused on in Artificial Intellig
 
 I'm best at python and learning R. I have also tried machine learning model deployment with Flask. 
 
-I'm currently learning Web Development, mainly Front-end Development with React JS and Tailwind CSS. Other tools/languages i enjoy such as: HTML, CSS, JavaScript, React, Tailwind CSS, Python, R, Java, C, C++, C#, Git, SQL, Laravel, PHP, Flask.
+I have experience as Fullstack developer for more than one year, I am also learning web development with React JS and Tailwind CSS. Other tools/languages i enjoy such as: HTML, CSS, JavaScript, React, Tailwind CSS, Python, R, Java, C, C++, C#, Git, SQL, Laravel, PHP, Flask, .NET, SQL Server.
 
 <br/>
 
