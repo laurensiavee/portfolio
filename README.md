@@ -1,14 +1,15 @@
 # PORTFOLIO
 Hello, I'm Laurensia! Welcome to my portfolio!
 
-I'm Laurensia, computer science major interested in Artificial Intelligence and Data Science✨.
+I'm Laurensia, computer science fresh graduate focused on in Artificial Intelligence✨.
 
-I'm best at python and learning R. I am also currently learning Web Development with Flask. Other tools/langs i enjoy such as:
-HTML/CSS/JavaScript, Python, R, C/C++, C#, SQL, Java
+I'm best at python and learning R. I have also tried machine learning model deployment with Flask. 
+
+I'm currently learning Web Development, mainly Front-end Development with React JS and Tailwind CSS. Other tools/languages i enjoy such as: HTML, CSS, JavaScript, React, Tailwind CSS, Python, R, Java, C, C++, C#, Git, SQL, Laravel, PHP, Flask.
 
 <br/>
 
-Portfolio contain compilation of personal project, mainly Data Science and Machine Learning projects, updated on regular basis.
+Portfolio contain compilation of personal project, updated on regular basis.
 
 #
 
@@ -38,6 +39,11 @@ In this project, I build Fraud Detection with Machine Learning Classification Mo
 **Regression | Machine Learning | EDA | R** <br>
 In this project, I build Insurance Medical Cost Analysis and Prediction Using Linear Regression Model using R. I experiment data analysis and visualization with ggplot2 library. 
 
+#
+
+<img align="left" src="img/plain-black.jpg" width="240" height="144"> **[Poke Wiki](https://github.com/laurensiavee/poke-wiki)**<br>
+**React JS | Tailwind CSS | HTML | Frontend | API**<br>
+Simple web providing information of pokemon using Pokemon API, PokeAPI. 
 
 <br/>
 
