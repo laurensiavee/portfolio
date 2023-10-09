@@ -90,7 +90,7 @@ simple  calculator as exercise on HTML, CSS, and JavaScript.
     > HTML, CSS, JavaScript, React JS, Tailwind CSS
 
 - Frameworks:
-    > Backend: Flask, ASP.NET, laravel
+    > Backend: Flask, ASP.NET, laravel, Node JS
 
     > JavaScript: React
 
